@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Prince Agyemang 👋
 
-<!--
-**mragyemang/mragyemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React | TypeScript | Next.js
 
-Here are some ideas to get you started:
+I build modern, responsive and user-friendly web applications, with a strong interest in clean UI/UX and creating meaningful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio Website](https://princeagyemang.vercel.app) · [GitHub](https://github.com/mragyemang)
+
+---
+
+## About Me
+
+- 💻 Frontend developer passionate about building modern web applications.
+- 🎨 Interested in clean interfaces and excellent user experiences.
+- 🚀 Constantly exploring new technologies and improving my skills.
+- 🌱 Currently learning Next.js and modern full-stack development.
+- 🤝 Open to collaboration and interesting development projects.
+
+## Tech Stack
+
+**Languages**
+
+JavaScript · TypeScript · HTML5 · CSS3
+
+**Frontend**
+
+React · Next.js · Tailwind CSS · shadcn/ui
+
+**Backend & Database**
+
+Supabase · PostgreSQL · REST APIs
+
+**Tools**
+
+Git · GitHub · Vite · VS Code
+
+---
+
+## Featured Projects
+
+### GPA / CWA Calculator
+A web application that helps university students calculate and monitor their academic performance.
+
+### Just Say It
+An anonymous messaging platform that allows users to receive messages without knowing who sent them.
+
+### E-commerce Platform
+A modern online shopping platform with product browsing and management functionality.
+
+---
+
+## Connect With Me
+
+- **Portfolio:** [princeagyemang.vercel.app](https://princeagyemang.vercel.app)
+- **GitHub:** [@mragyemang](https://github.com/mragyemang)
+- **Email:** [Contact Me](mailto:pagyemang727@gmail.com)
+
+---
+
+*Building, learning and improving one project at a time.*
