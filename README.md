@@ -23,7 +23,7 @@ JavaScript · TypeScript · HTML5 · CSS3
 
 **Frontend**
 
-React · Next.js · Tailwind CSS · shadcn/ui
+React · Next.js · Tailwind CSS
 
 **Backend & Database**
 
