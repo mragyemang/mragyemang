@@ -35,19 +35,6 @@ Git · GitHub · Vite · VS Code
 
 ---
 
-## Featured Projects
-
-### GPA / CWA Calculator
-A web application that helps university students calculate and monitor their academic performance.
-
-### Just Say It
-An anonymous messaging platform that allows users to receive messages without knowing who sent them.
-
-### E-commerce Platform
-A modern online shopping platform with product browsing and management functionality.
-
----
-
 ## Connect With Me
 
 - **Portfolio:** [princeagyemang.vercel.app](https://princeagyemang.vercel.app)
