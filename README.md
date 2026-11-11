@@ -32,19 +32,12 @@ I'm a frontend developer passionate about building clean, responsive and user-fr
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)
 
 ### Backend & Database
 
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![REST API](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
