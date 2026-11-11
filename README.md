@@ -1,4 +1,4 @@
-# Hi, I'm Prince Agyemang 👋
+# Hi, I'm Prince 👋
 
 ### Frontend Developer | React | TypeScript | Next.js
 
