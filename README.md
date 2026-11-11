@@ -13,7 +13,6 @@ I build modern, responsive and user-friendly web applications, with a strong int
 - 💻 Frontend developer passionate about building modern web applications.
 - 🎨 Interested in clean interfaces and excellent user experiences.
 - 🚀 Constantly exploring new technologies and improving my skills.
-- 🌱 Currently learning Next.js and modern full-stack development.
 - 🤝 Open to collaboration and interesting development projects.
 
 ## Tech Stack
